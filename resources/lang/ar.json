@@ -1,0 +1,19 @@
+{
+    "invalid_creds": "تفاصيل تسجيل الدخول غير صالحة المقدمة",
+    "invalid_user": "المستخدم غير موجود",
+    "invalid_code": "تم توفير رمز التحقق غير صالح",
+    "code_expired": "لقد انتهت صلاحية الرمز الخاص بك",
+    "data_save_error": "حدث خطأ أثناء حفظ بيانات المستخدم",
+    "booking_error": "حدث خطأ أثناء التقاط الدفع. سيتم إلغاء الحجز",
+    "error_confirm_status": "حدث خطأ أثناء تحديث حالة التأكيد",
+    "request_success": "تمت معالجة الطلب بنجاح",
+    "request_failed": "الطلب فشل",
+    "booking_not_exists": "الحجز غير موجود",
+    "booking_time_passed": "انقضى وقت الحجز",
+    "phone_validation_error": "حدث خطأ أثناء التحقق من صحة رقم الهاتف",
+    "verification_code_sent": "تم إرسال رمز التحقق بنجاح",
+    "verification_code_message_dont_share": "هو رمز التحقق الخاص بك. لا تشارك مع أي شخص",
+    "old_new_same_password": "لا يمكن أن تكون كلمة المرور الجديدة هي كلمة مرورك القديمة",
+    "boat_not_exists": "القارب غير موجود",
+    "savedCustomerQuery": "Your query is saved successfully. Shortly someone will contact you."
+}

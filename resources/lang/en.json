@@ -1,0 +1,19 @@
+{
+    "invalid_creds": "Invalid login details provided",
+    "invalid_user": "User does not exist",
+    "invalid_code": "Invalid verification code provided",
+    "code_expired": "Your code has been expired",
+    "data_save_error": "Error Occurred while saving user data",
+    "booking_error": "Error occurred while capturing payment. Booking will be cancelled",
+    "error_confirm_status": "Error occurred while updating confirm status",
+    "request_success": "Request processed successfully",
+    "request_failed": "Request failed",
+    "booking_not_exists": "Booking does not exist",
+    "booking_time_passed": "Booking time has passed",
+    "phone_validation_error": "Error occurred while validating phone number",
+    "verification_code_sent": "Verification Code Sent Successfully",
+    "verification_code_message_dont_share": " is your verification code. Do not share with anyone",
+    "old_new_same_password": "New password cannot be your old password",
+    "boat_not_exists": "Boat does not exist",
+    "savedCustomerQuery": "Your query is saved successfully. Shortly someone will contact you."
+}

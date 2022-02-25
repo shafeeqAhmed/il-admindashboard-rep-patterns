@@ -1,0 +1,21 @@
+ /*BEGIN: Vendor CSS*/
+/* @import "../theme/app-assets/vendors/css/vendors.min.css";*/
+/* !*END: Vendor CSS-*!*/
+
+/* !*BEGIN: Theme CSS*!*/
+/*@import "../theme/app-assets/css/bootstrap.css";*/
+/*@import "../theme/app-assets/css/bootstrap-extended.css";*/
+/*@import "../theme/app-assets/css/colors.css";*/
+/*@import "../theme/app-assets/css/components.css";*/
+/* !*END: Theme CSS*!*/
+
+
+
+/*  !*BEGIN: Page CSS*!*/
+/* @import "../theme/app-assets/css/core/menu/menu-types/vertical-menu.css";*/
+/* @import "../theme/app-assets/css/core/colors/palette-gradient.css";*/
+/*  !*END: Page CSS*!*/
+
+/*  !*BEGIN: Custom CSS*!*/
+/*  @import "../theme/assets/css/style.css";*/
+  /*END: Custom CSS*/

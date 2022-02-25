@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "2VSTU8J8Z9.com.app.boatek",
+      "paths": ["/getBoatDetail/*"]
+    }
+    ]
+  }
+}
